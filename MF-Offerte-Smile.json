@@ -1,0 +1,71 @@
+{
+  "OfferNumber": "7583292",
+  "Validity": "30 days from 14.08.2023",
+  "ContractData": {
+    "InsuranceHolder": {
+      "Name": "Max Mustermann",
+      "Address": "Pionierstrasse 3, 8400 Winterthur",
+      "Birthdate": "28.02.1968",
+      "Nationality": "Swiss",
+      "Email": "max.mustermann@gmail.com",
+      "PhoneNumber": "+4179212345678"
+    },
+    "FrequentDriver": {
+      "Name": "Max Mustermann",
+      "Gender": "Male",
+      "Birthdate": "28.02.1968",
+      "Nationality": "Swiss",
+      "LicenseSince": "1987",
+      "Email": "max.mustermann@gmail.com",
+      "PhoneNumber": "+4179212345678"
+    },
+    "VehicleDetails": {
+      "FirstRegistration": "2021",
+      "CatalogPrice": "CHF 58'990",
+      "Accessories": "CHF 5'899",
+      "LicensePlate": "ZH",
+      "Leasing": "No",
+      "Usage": "Private only"
+    },
+    "InsuranceCoverage": {
+      "Liability": {
+        "CoveredUpTo": "CHF 100 Mio.",
+        "PremiumLevel": "1 /40%",
+        "BonusProtection": "Insured",
+        "Deductible": {
+          "FrequentDriver": "CHF 0",
+          "YoungDrivers": "CHF 500",
+          "OtherDrivers": "CHF 0"
+        },
+        "AnnualPremium": "CHF 268.30"
+      },
+      "PartialCasco": {
+        "BasicCoverage": "Insured",
+        "Deductible": "CHF 0",
+        "GlassBreakage": "Plus insured",
+        "Collision": "Insured",
+        "ComprehensiveDeductible": "CHF 1'000",
+        "PremiumLevel": "1 /40%",
+        "BonusProtection": "Insured",
+        "ParkingDamage": "CHF 3'000",
+        "PersonalEffects": "CHF 2'000",
+        "CompensationType": "Plus insured",
+        "AnnualPremium": "CHF 899.20"
+      },
+      "eMobility": {
+        "AnnualPremium": "CHF 0.00"
+      },
+      "GrossNegligenceProtection": {
+        "AnnualPremium": "CHF 41.60"
+      },     
+      "AccidentInsurance": {
+        "ForYouAndYourPassengers": "Insured",
+        "Assistance": "For emergency help in accidents",
+        "LegalProtection": "For you and your vehicle"
+      },
+      "TotalAnnualPremium": "CHF 1'209.10",
+      "LegalTaxes": "CHF 67.00",
+      "TotalAmountDue": "CHF 1'276.10"
+    }
+  }
+}
